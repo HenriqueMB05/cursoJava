@@ -1,8 +1,8 @@
-package applications;
-import entities.Department;
-import entities.HourContract;
-import entities.Worker;
-import entities.enums.WorkerLevel;
+package work.applications;
+import work.entities.Department;
+import work.entities.HourContract;
+import work.entities.Worker;
+import work.entities.enums.WorkerLevel;
 
 
 import java.text.ParseException;

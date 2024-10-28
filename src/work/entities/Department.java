@@ -1,4 +1,4 @@
-package entities;
+package work.entities;
 
 public class Department {
     private String name;
